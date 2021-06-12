@@ -1,5 +1,8 @@
 # Hi Nita
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+<img src="https://pngimg.com/uploads/brain/brain_PNG91.png">
+
 ## Programming basics 
 [Codecademy - Basics of Programming I](https://www.codecademy.com/learn/learn-how-to-code/modules/bop-i)
 
