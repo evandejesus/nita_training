@@ -14,7 +14,7 @@
 - wait for the price to go down on this one. Sometimes drops below $30
 
 ## Git/Github
-github.com
+https://github.com
 
 [Github Tutorial for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
